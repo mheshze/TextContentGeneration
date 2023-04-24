@@ -1,2 +1,0 @@
-__init__
-text_content_generator
