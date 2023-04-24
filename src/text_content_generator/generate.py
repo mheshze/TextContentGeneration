@@ -2,10 +2,10 @@ from requests.exceptions import MissingSchema
 from pytube.exceptions import RegexMatchError
 from pydub.exceptions import CouldntDecodeError
 import os
-import youtube
-import audio
-import webpage
-import pdf
+from text_content_generator import youtube
+from text_content_generator import audio
+from text_content_generator import webpage
+from text_content_generator import pdf
 
 def generate_content():
     transcript = ""

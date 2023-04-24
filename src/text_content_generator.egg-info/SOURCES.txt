@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/text_content_generator/__init__.py
+src/text_content_generator/audio.py
+src/text_content_generator/generate.py
+src/text_content_generator/pdf.py
+src/text_content_generator/summarize.py
+src/text_content_generator/webpage.py
+src/text_content_generator/youtube.py
+src/text_content_generator.egg-info/PKG-INFO
+src/text_content_generator.egg-info/SOURCES.txt
+src/text_content_generator.egg-info/dependency_links.txt
+src/text_content_generator.egg-info/top_level.txt
