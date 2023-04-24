@@ -74,5 +74,3 @@ def generate_content():
         else:
             print("\nPlease enter a VALID OPTION!\n")
     return transcript
-
-print(generate_content())
